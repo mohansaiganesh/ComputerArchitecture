@@ -1,1 +1,1 @@
-THis folder contains the list of projects related to Computer Architecture.
+This folder contains the list of projects related to Computer Architecture.
